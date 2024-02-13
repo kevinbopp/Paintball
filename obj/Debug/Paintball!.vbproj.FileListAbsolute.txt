@@ -1,0 +1,55 @@
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.vbprojResolveAssemblyReference.cache
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball.frmGameScreen.resources
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball.Resources.resources
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.vbproj.GenerateResource.Cache
+F:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe.config
+F:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe
+F:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.pdb
+F:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.xml
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.vbprojResolveAssemblyReference.cache
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball.frmGameScreen.resources
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball.Resources.resources
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.vbproj.GenerateResource.Cache
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.exe
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.xml
+F:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.pdb
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.exe
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.xml
+E:\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.pdb
+E:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe.config
+E:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe
+E:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.pdb
+E:\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.xml
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe.config
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.pdb
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.xml
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball.frmGameScreen.resources
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball.Resources.resources
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.exe
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.xml
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.pdb
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.exe.manifest
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\bin\Debug\Paintball!.application
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.TrustInfo.xml
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.exe.manifest
+C:\Users\Kevin\Desktop\Paintball!\ArcadeMachineStarter\obj\Debug\Paintball!.application
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\bin\Debug\Paintball!.exe.config
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\bin\Debug\Paintball!.exe.manifest
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\bin\Debug\Paintball!.application
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\bin\Debug\Paintball!.exe
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\bin\Debug\Paintball!.pdb
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\bin\Debug\Paintball!.xml
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball.frmGameScreen.resources
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball.Resources.resources
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.vbproj.GenerateResource.Cache
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.TrustInfo.xml
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.exe.manifest
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.application
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.exe
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.xml
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.pdb
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.vbprojAssemblyReference.cache
+K:\Kevin's Stuff\Assorted Files\School Work\Oasis Charter High School\Grade 9\Programming I\Projects\Paintball! (working on)\ArcadeMachineStarter\obj\Debug\Paintball!.vbproj.CoreCompileInputs.cache
